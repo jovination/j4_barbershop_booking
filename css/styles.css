@@ -2919,7 +2919,7 @@
   
   .image-3 {
     border-radius: 8px;
-    width: 80px;
+    width: 100px;
     transform: translate(2px, 7px) rotate(9deg);
     box-shadow: 0 0 280px #000;
   }
@@ -3051,7 +3051,6 @@
   }
   
   .container-article {
-    background: #111211;
     color: #fff;
     border: 1px solid rgba(0, 0, 0, 0.08);
     border-radius: 16px;
@@ -3205,7 +3204,7 @@
   }
   
   .wrapper-article {
-    background-color: var(--moke);
+    background-color:#111212;
     border-radius: 16px;
     width: 680px;
     position: relative;
@@ -3220,7 +3219,7 @@
   }
   
   .html-embed {
-    aspect-ratio: 16/9;
+    aspect-ratio: 4/3;
     object-fit: fill;
     border-radius: 12px;
     justify-content: center;
@@ -3310,6 +3309,7 @@
       overflow: hidden;
     }
     .image-3 {
+      margin-top: 60px;
       position: absolute;
     }
     .wrapper-blog {
