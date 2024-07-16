@@ -2438,10 +2438,7 @@
     padding-bottom: 60px;
   }
   
-  .section.short {
-    padding-bottom: 0;
-  }
-  
+ 
   .grid-bullet-points {
     grid-column-gap: 0px;
     grid-row-gap: 21px;
